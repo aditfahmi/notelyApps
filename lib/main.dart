@@ -294,6 +294,16 @@ class MyApp extends StatelessWidget {
             ],
           ),
         ),
+        floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
+        floatingActionButton: FloatingActionButton(
+          onPressed: () {},
+          child: Icon(
+            Icons.add,
+            color: Colors.black,
+            size: 50.0,
+          ),
+          backgroundColor: Colors.white,
+        ),
       ),
     );
   }
