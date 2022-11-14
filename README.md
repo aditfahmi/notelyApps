@@ -4,7 +4,8 @@ New Flutter project for my UI challenge by creating Note apps.
 This repository supports a series of posts that will show you how to build a flutter Note app. This project will have a beautifull design from https://www.figma.com/file/bT3agWbROyHTgdOmrtfsTa/Notely-(Note-App)-(Community)?node-id=7%3A1206 design.
 # Appearance
 
-  
+  <img width="394" alt="XcqRaslf24" src="https://user-images.githubusercontent.com/33373361/201603081-6fdac071-6e3f-4ead-ae3a-ac1c23951374.png">
+
 
 
   
